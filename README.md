@@ -3,7 +3,9 @@
 An AI-powered web application that predicts flood risk using historical weather and rainfall data. The project uses a Machine Learning model to provide early flood predictions, helping users make informed decisions during heavy rainfall.
 
 Live Link :  https://risingwater.streamlit.app/
+
 Git repository : https://github.com/Yakaanil2006/Rising_Water
+
 Video Demo : https://drive.google.com/file/d/1hJDO4q5rC3ItDBWuO5E0m2vqoS4XV95T/view?usp=sharing
 
 ---
